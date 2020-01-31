@@ -1,0 +1,9 @@
+Package: tech.beep.relah
+Name: RELah
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Terence Tan
+Author: Terence Tan
+Section: Tweaks

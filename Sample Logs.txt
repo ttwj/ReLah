@@ -1,0 +1,42 @@
+Oct 29 08:29:09 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH ACTIVATED!
+Oct 29 08:29:12 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: CCryptCalled 2
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: CCryptCalled 2
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-ENCRYPTData called arg1: 02, randomString qe6LCrWjWVWy5kFl
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: CCryptCalled 0
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-ENCRYPTData result YkHY+FyUezelfg2uBERYuw==
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-ENCRYPTData called arg1: iPhone 5s, randomString qe6LCrWjWVWy5kFl
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-ENCRYPTData result vdJSG9mkXJ7753CUI+z4cA==
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-ENCRYPTData called arg1: iPhone, randomString qe6LCrWjWVWy5kFl
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-ENCRYPTData result fDQGHQ1KOeCwdSNP9A/NHA==
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-ENCRYPTData called arg1: ec, randomString qe6LCrWjWVWy5kFl
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-ENCRYPTData result al1nhj9uIvAcCbKPmEgUxOjGMT2ZlDXjUBtY4E8w0lCtI47ZxiI2yFxU+7KOvDRv
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-ENCRYPTData called arg1: 804F865D-D0D1-4545-9D55-6718F590FC5D, randomString qe6LCrWjWVWy5kFl
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-ENCRYPTData result GTvTwpizz5Yz4Yac+6SMHY/5J1NXupw4NCAk9A+NKgCoN/Ih+fw/8bBMKrHqNVGk
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-ENCRYPTData called arg1: 00, randomString qe6LCrWjWVWy5kFl
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-ENCRYPTData result eLfAseJB+FJtJ6zBPl17Xw==
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: initWithData called <308202a8 30820190 0208709d 2d7851cb 1571300d 06092a86 4886f70d 01010505 00301531 13301106 03550403 0c0a4442 53205061 796c6168 301e170d 31373130 32373137 35343533 5a170d31 39313032 38313735 3435335a 30183116 30140603 5504030c 0d444253 204d6572 6368616e 74733082 0122300d 06092a86 4886f70d 01010105 00038201 0f003082 010a0282 01010080 48b4009a 6988067e 970845fd e1ee41c1 b666c2ce c338064c 1fbf12ec 4d9934d4 b29c0b0e 97c69970 a887b506 9c50d690 cc02ec07 a6a11047 0bd00290 5075641c b9392815 eb3aed56 da492af2 e947075c b7894c40 d2cb7a1d 35451f68 7a8365b4 43da4d9e c9fd6855 419a4c23 252262a0 b6759993 11238c6a 8e8a93df 44c924ce 1135b977 2b9532c1 1ed564ce c1ae6ac9 1db92913 c57675eb 4775d1ff c00712d5 c8c39ec1 a24cc5cc 98c25f1d 2c16ed43 39d5e06e ed32da15 69bed94a 06dc729e 3a8040ac d655438d dde5b2e3 23f7dd9e e2e78d51 780df7f8 e7469061 314c4199 7ca76418 cf2f91e5 901d4b47 e35da2b0 6a8dac38 c120f06d 63e8bfc5 69ff5b02 03010001 300d0609 2a864886 f70d0101 05050003 82010100 3381fcf8 634c3b2d 8d760f73 bb12a298 3b298137 fc15fc91 46265
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: encryptWithString called qe6LCrWjWVWy5kFl
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: (
+	0   RELah.dylib                         0x0000000103047414 _ZL57_logos_method$_ungrouped$RSAEncryption$encryptWithString$P13RSAEncryptionP13objc_selectorP11objc_object + 88
+	1   PayLah                              0x00000001002ea594 PayLah + 2631060
+	2   PayLah                              0x00000001001d0a74 PayLah + 1477236
+	3   PayLah                              0x00000001001af658 PayLah + 1341016
+	4   PayLah                              0x00000001001afbfc PayLah + 1342460
+	5   PayLah                              0x00000001001ae6a4 PayLah + 1336996
+	6   PayLah                              0x00000001001afce8 PayLah + 1342696
+	7   PromiseKit                          0x0000000101661d4c _TFFC10PromiseKit7Promise4thenurFT2onCSo13DispatchQueue7executeFzxGS0_qd____GS0_qd___U0_FzxT_ + 128
+	8   PromiseKit                          0x000000010166a5bc _TFFFC10PromiseKit5State4thenurFT2onCSo13DispatchQueue4elseFGOS_10Resolutionqd___T_7executeFzxT__T_U_FGS2_x_T_U_FzT_T_ + 124
+	9   PromiseKit
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: encryptWithData called <7165364c 4372576a 57565779 356b466c>
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: encryptWithString result <241ed0d5 f204ad3a cdcb15b0 674331c8 42d13b8d 487e200c 1ba19587 29b8feaf 06efaa02 5b7e8dc1 c61fb5f0 4f579d9a bf31bc5b 7606b107 911dedb6 0fec34d7 d6271264 c1ba9584 7d73ec72 3e2a5b24 6e32d52e a682a1a8 77a03506 4a1f0340 91226af8 d8a45431 0da2e5fa 8c27405a 68733cf3 2c47e481 a002bef1 0c9fa39c d44f2a2f dedbe275 5180d598 12980b35 9696d02a 8b775b71 20cc68d5 3a6d7b7e bc6250d0 9f165f4a 0ae6f052 e1a4c090 4237e4ae 258824bb 34d69d5d ac7e9ebe eb24cec2 f2ad23b0 8c73a243 56640f93 d117637a f4b8b176 828ed837 8ee446ba 3034be54 e543795b 7ec49df0 d22ab524 4b972064 acb4a480 838f8744 1eb55aa9>
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: base64ForData called <241ed0d5 f204ad3a cdcb15b0 674331c8 42d13b8d 487e200c 1ba19587 29b8feaf 06efaa02 5b7e8dc1 c61fb5f0 4f579d9a bf31bc5b 7606b107 911dedb6 0fec34d7 d6271264 c1ba9584 7d73ec72 3e2a5b24 6e32d52e a682a1a8 77a03506 4a1f0340 91226af8 d8a45431 0da2e5fa 8c27405a 68733cf3 2c47e481 a002bef1 0c9fa39c d44f2a2f dedbe275 5180d598 12980b35 9696d02a 8b775b71 20cc68d5 3a6d7b7e bc6250d0 9f165f4a 0ae6f052 e1a4c090 4237e4ae 258824bb 34d69d5d ac7e9ebe eb24cec2 f2ad23b0 8c73a243 56640f93 d117637a f4b8b176 828ed837 8ee446ba 3034be54 e543795b 7ec49df0 d22ab524 4b972064 acb4a480 838f8744 1eb55aa9>
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: base64 result JB7Q1fIErTrNyxWwZ0MxyELRO41IfiAMG6GVhym4/q8G76oCW36NwcYftfBPV52avzG8W3YGsQeRHe22D+w019YnEmTBupWEfXPscj4qWyRuMtUupoKhqHegNQZKHwNAkSJq+NikVDENouX6jCdAWmhzPPMsR+SBoAK+8Qyfo5zUTyov3tvidVGA1ZgSmAs1lpbQKot3W3EgzGjVOm17frxiUNCfFl9KCubwUuGkwJBCN+SuJYgkuzTWnV2sfp6+6yTOwvKtI7CMc6JDVmQPk9EXY3r0uLF2go7YN47kRrowNL5U5UN5W37EnfDSKrUkS5cgZKy0pICDj4dEHrVaqQ==
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-decryptData called arg1: al1nhj9uIvAcCbKPmEgUxOjGMT2ZlDXjUBtY4E8w0lCtI47ZxiI2yFxU+7KOvDRv, randomString qe6LCrWjWVWy5kFl
+Oct 29 08:29:17 Cheong-iPhone PayLah(RELah.dylib)[2498] <Notice>: RELAH: AESCrypto-decryptData result 4034FA30B1F44CF3B0213C7E9EF78A1A
+
+
+
+download RSA public key -> Generate random string -> encrypt with RSA public key ->  base64 it -> send over -> use this randomString for AES encryption
+
+
+curl -H 'Host: p2pweb.dbs.com:443' -H 'Accept: */*' -H 'Content-Type: application/x-www-form-urlencoded; charset=utf-8'  -H 'Accept-Language: zh-cn' -H 'User-Agent: PayLah/7 CFNetwork/808.2.16 Darwin/16.3.0' --data-binary "appID=DBSMobileWallet&appver=3.0.2&channel=rc&ipAddress=192.168.1.61&platform=iPhone&serviceID=getServer" --compressed 'https://p2pweb.dbs.com/middleware/MWServlet'
